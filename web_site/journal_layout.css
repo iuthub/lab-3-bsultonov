@@ -1,0 +1,29 @@
+body{
+	margin: 0 10%;
+	background-image: url("images/morocco.png");
+}
+.container-border{
+	border: 10px white solid; 
+	background-color: white;
+}
+.container-border__red{
+	background-color:  #A8F0F0;
+	text-align: right;
+}
+
+.container-border__blue{
+	border: 4px #C2E9E9 solid; 
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+.image-block{
+	float: right;
+}
+.container-border__violet{
+	border-bottom: 2px blue dashed; 
+}
+.font-14{
+	font-size: 14pt;
+}
